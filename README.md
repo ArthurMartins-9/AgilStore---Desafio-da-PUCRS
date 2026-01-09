@@ -21,7 +21,7 @@ A aplicação foi criada para atender ao enunciado proposto, automatizando o con
 
 ## ▶️ Como Executar o Projeto
 
-node ex_01.js
+node AgilStore.js
 
 O sistema funciona totalmente via terminal, utilizando menus interativos.
 
